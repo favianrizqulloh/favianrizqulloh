@@ -7,8 +7,7 @@
 - 🔭 I’m currently working on _~~something~~_
 - 🌱 I’m currently learning filmmaking, design, motion graphics, JavaScript and so on _(literally everything 🙃)_
 - 👯 I’m looking to collaborate with some other web development
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: I love learning something new
+- ⚡ Fun fact: I love learning something new :^)
 
 ### Reach me on:
 
