@@ -12,10 +12,10 @@
 
 ### Reach me on:
 
-[<img align="left" alt="fav's YouTube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://goo.gl/2v8SDU]
-[<img align="left" alt="fav's Discord server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][https://discord.io/favcommunity]
-[<img align="left" alt="fav's Twitter profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/favianrizqulloh]
-[<img align="left" alt="fav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/favianrizqulloh]
+[<img align="left" alt="fav's YouTube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://goo.gl/2v8SDU)
+[<img align="left" alt="fav's Discord server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.io/favcommunity)
+[<img align="left" alt="fav's Twitter profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/favianrizqulloh)
+[<img align="left" alt="fav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/favianrizqulloh)
 
 <br />
 
