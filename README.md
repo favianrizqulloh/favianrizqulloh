@@ -1,6 +1,6 @@
 ### 👋 Sup there, I'm Favian (aka fav)
 
-[![Twitter](https://img.shields.io/twitter/follow/favianrizqulloh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffavianrizqulloh&screen_name=favianrizqulloh)
+---
 
 ## I'm a scholar and beginner JS dev
 
