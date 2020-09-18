@@ -1,5 +1,9 @@
 ### 👋 Sup there, I'm Favian (aka fav)
 
+<div align="center">
+  <img src="https://i.imgur.com/7Z2Vgmy.gif">
+</div>
+
 ---
 
 ## I'm a scholar and beginner JS dev
