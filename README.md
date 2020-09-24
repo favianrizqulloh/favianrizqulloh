@@ -54,4 +54,4 @@
 
 ### 🎧 Now Playing on Spotify
 
-![Spotify](https://favianrizqulloh.vercel.app/api/spotify)
+![Spotify](https://novatorem.favianrizqulloh.vercel.app/api/spotify)
