@@ -58,5 +58,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#6](https://github.com//favianrizqulloh/FAV-verifier/pull/6) in [favianrizqulloh/FAV-verifier](https://github.com//favianrizqulloh/FAV-verifier)
+2. 💪 Opened PR [#6](https://github.com//favianrizqulloh/FAV-verifier/pull/6) in [favianrizqulloh/FAV-verifier](https://github.com//favianrizqulloh/FAV-verifier)
+<!--END_SECTION:activity-->
 
 </details>
