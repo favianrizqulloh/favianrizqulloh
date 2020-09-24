@@ -48,8 +48,15 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>📈 GitHub Stats</summary>
 
   <img align="left" alt="fav's GitHub Stats" src="https://github-readme-stats.favianrizqulloh.vercel.app/api?username=favianrizqulloh&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
 
 </details>
