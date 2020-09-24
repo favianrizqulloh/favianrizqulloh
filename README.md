@@ -42,24 +42,11 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.w3schools.com/css/)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.w3schools.com/js/)
 
-<br />
-<br />
-
 ---
 
 <details>
   <summary>📈 GitHub Stats</summary>
 
   <img align="left" alt="fav's GitHub Stats" src="https://github-readme-stats.favianrizqulloh.vercel.app/api?username=favianrizqulloh&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com//favianrizqulloh/FAV-verifier/pull/6) in [favianrizqulloh/FAV-verifier](https://github.com//favianrizqulloh/FAV-verifier)
-2. 💪 Opened PR [#6](https://github.com//favianrizqulloh/FAV-verifier/pull/6) in [favianrizqulloh/FAV-verifier](https://github.com//favianrizqulloh/FAV-verifier)
-<!--END_SECTION:activity-->
 
 </details>
