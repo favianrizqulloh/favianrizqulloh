@@ -51,3 +51,7 @@
   <img align="left" alt="fav's GitHub Stats" src="https://github-readme-stats.favianrizqulloh.vercel.app/api?username=favianrizqulloh&show_icons=true&hide_border=true" />
 
 </details>
+
+### 🎧 Now Playing on Spotify
+
+![Spotify](https://favianrizqulloh.vercel.app/api/spotify)
