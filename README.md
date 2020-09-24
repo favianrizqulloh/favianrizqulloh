@@ -46,7 +46,7 @@
 <br />
 
 <details>
-  <summary>📈 GitHub Stats</summary>
+  <summary>### 📈 GitHub Stats</summary>
 
   <img align="left" alt="fav's GitHub Stats" src="https://github-readme-stats.favianrizqulloh.vercel.app/api?username=favianrizqulloh&show_icons=true&hide_border=true" />
 
