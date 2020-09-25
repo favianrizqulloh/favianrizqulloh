@@ -45,8 +45,6 @@
 <br />
 <br />
 
----
-
 ### 🎧 Now Playing on Spotify 🎶
 
 ![Spotify](https://novatorem.favianrizqulloh.vercel.app/api/spotify)
