@@ -1,6 +1,6 @@
 ### 👋 Sup there, I'm Favian (aka fav)
-
 <div align="center">
+    ![Profile views badge](https://komarev.com/ghpvc/?username=favianrizqulloh&style=flat-square&color=328BE9&label=eyes)
   <img src="https://i.imgur.com/7Z2Vgmy.gif">
 </div>
 
