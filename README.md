@@ -19,6 +19,7 @@
 [<img align="left" alt="fav's Discord server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.io/favcommunity)
 [<img align="left" alt="fav's Twitter profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/favianrizqulloh)
 [<img align="left" alt="fav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/favianrizqulloh)
+[<img align="left" alt="fav's Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />](https://www.behance.net/favianrizqulloh)
 
 <br />
 
