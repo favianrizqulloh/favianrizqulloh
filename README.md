@@ -6,7 +6,7 @@
 
 ---
 
-## I'm a scholar and beginner JS dev
+## I'm a scholar and self-taught JS dev
 
 - 🔭 I’m currently working on _~~something~~_
 - 🌱 I’m currently learning filmmaking, design, motion graphics, JavaScript and so on _(literally everything 🙃)_
