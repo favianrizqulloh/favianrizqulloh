@@ -31,7 +31,7 @@
 [<img align="left" alt="After Effects" width="26px" src="https://www.adobe.com/content/dam/cc/icons/aftereffects.svg" />](https://www.adobe.com/products/aftereffects.html)
 [<img align="left" alt="XD" width="26px" src="https://www.adobe.com/content/dam/cc/icons/xd.svg" />](https://www.adobe.com/products/xd.html)
 [<img align="left" alt="Figma" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />](https://www.figma.com)
-[<img align="left" alt="PowerPoint" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Microsoft_Office_PowerPoint_%282018%E2%80%93present%29.svg" />](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
+[<img align="left" alt="PowerPoint" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" />](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/Microsoft/Terminal)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
